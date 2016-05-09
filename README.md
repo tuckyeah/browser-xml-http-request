@@ -25,9 +25,22 @@ By the end of this, developers should be able to:
     this repository.
 1.  Install dependencies with `npm install`.
 
-## Demo: XML HTTP Requests
+## Annotate Along: XML HTTP Requests
+
+We'll use the [library-api](https://github.com/ga-wdi-boston/library-api) we
+ used when first learning about `$.ajax` to handle requests.
+
+Let's examine and run the code in `assets/scripts/xhr.js`.
+
+Then let's do the same with `assets/scripts/xhr-promises.js`.
 
 ## Lab: Compare XHR with AJAX
+
+List the differences and similarities between `XMLHttpRequest` and
+ `jQuery.ajax`.
+
+Could you build a simplified version of `$.ajax` based on the code in
+ `assets/scripts/xhr-promises.js`.
 
 ## Additional Resources
 
